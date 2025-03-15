@@ -8,3 +8,5 @@ The idea is implemented using Graph and Heap data structures. The graph has node
 By using different algorithms like Dijkstra, breadth-first search, depth-first search, etc, the shortest path between the source station and the destination station is determined, and accordingly, the fare is being calculated on the basis of the total distance between the two stations. Finally, the metro route between the two stations and the total fare is displayed.
 
 Main.java cointains all the major code and Heap.java contains heap implementation.
+
+![Log in to your PayPal account - Google Chrome 3_15_2025 10_49_03 AM](https://github.com/user-attachments/assets/ab693af5-fb2e-468d-80ca-0fe644973264)
